@@ -167,3 +167,45 @@
 	"rlutil.h"
 	"funciones.h"
 
+1656719428 source:c:\users\familia antonietti\desktop\grancerdotp-utn\funciones.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\familia antonietti\desktop\grancerdotp-utn\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656712272 c:\users\familia antonietti\desktop\grancerdotp-utn\funciones.h
+
+1656712272 source:c:\users\familia antonietti\desktop\grancerdotp-utn\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
