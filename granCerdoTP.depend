@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1656550869 source:c:\users\gantonie\utnfrgp\laboratorio 1\integrador\grancerdovfinal\grancerdotp\funciones.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\gantonie\utnfrgp\laboratorio 1\integrador\grancerdovfinal\grancerdotp\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656423224 c:\users\gantonie\utnfrgp\laboratorio 1\integrador\grancerdovfinal\grancerdotp\funciones.h
+
+1656423308 source:c:\users\gantonie\utnfrgp\laboratorio 1\integrador\grancerdovfinal\grancerdotp\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656550869 source:c:\users\familia antonietti\desktop\grancerdotp\funciones.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\familia antonietti\desktop\grancerdotp\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656423224 c:\users\familia antonietti\desktop\grancerdotp\funciones.h
+
+1656708076 source:c:\users\familia antonietti\desktop\grancerdotp\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656712911 source:c:\users\familia antonietti\desktop\laboratorio 2do parcial\grancerdotp - con resolucion\funciones.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\familia antonietti\desktop\laboratorio 2do parcial\grancerdotp - con resolucion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656712272 c:\users\familia antonietti\desktop\laboratorio 2do parcial\grancerdotp - con resolucion\funciones.h
+
+1656712272 source:c:\users\familia antonietti\desktop\laboratorio 2do parcial\grancerdotp - con resolucion\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656712272 source:c:\users\familia antonietti\desktop\grancerdotp - con resolucion\main.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\familia antonietti\desktop\grancerdotp - con resolucion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656712272 c:\users\familia antonietti\desktop\grancerdotp - con resolucion\funciones.h
+
+1656719065 source:c:\users\familia antonietti\desktop\grancerdotp - con resolucion\funciones.cpp
+	<iostream>
+	<locale.h>
+	<iomanip>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	"rlutil.h"
+	"funciones.h"
+
